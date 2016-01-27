@@ -1,6 +1,6 @@
 {
   "name": "OCMock",
-  "version": "3.2",
+  "version": "3.2.1",
   "source": {
     "git": "https://github.com/NatJPods/Bindings.git",
     "tag": "OCMock",
